@@ -1,11 +1,13 @@
 ### Hi there 👋, my name is Igor
-I'am from Russia, Perm. I studied at Perm Law Institute. 
-At 28 years old, I decided to change my life and become a programmer
+#### I am Web Developer
+I'am from Russia, Perm. I studied at Perm Law Institute.  
+At 28 years old, I decided to change my life and become a programmer.  
+I want to be a python developer.
 
 Skills: HTML / CSS / JS / Python
 
 - 🌱 I’m currently learning Python 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/https://github.com/igorshirinkin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/igorshirinkin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/shirinkinigor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/igorshirinkin/)  
-
+#### Get in touch:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/https://github.com/igorshirinkin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/igorshirinkin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/shirinkinigor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/igorshirinkin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='20'>](https://vk.com/igorshirinkin)  
+Personal site: cooming soon
