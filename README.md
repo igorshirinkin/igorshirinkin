@@ -4,10 +4,7 @@ I'am from Russia, Perm. I studied at Perm Law Institute.
 At 28 years old, I decided to change my life and become a programmer.  
 I want to be a python developer.
 
-Languages and Tools:   
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' alt='html5' height='30'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' alt='css3' height='30'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg' alt='bootstrap' height='25'>
+Languages and Tools:
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg' alt='php' height='30'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='javascript' height='24'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='python' height='25'>
