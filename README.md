@@ -3,6 +3,7 @@
 
 Languages and Tools:  
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg' alt='php' height='30'>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg' alt='php' height='24'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='javascript' height='24'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='python' height='25'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg' alt='django' height='30'>
