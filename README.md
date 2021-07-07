@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Igor
-### I am Full Stack developer
+### I am Backend developer
 
 Languages and Tools:  
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg' alt='php' height='30'>
