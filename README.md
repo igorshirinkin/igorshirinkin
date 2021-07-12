@@ -9,6 +9,7 @@ Languages and Tools:
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg' alt='django' height='30'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg' alt='flask' height='25'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' alt='flask' height='30'>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='flask' height='25'>
 
 
 #### Get in touch:
